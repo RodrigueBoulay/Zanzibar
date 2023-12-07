@@ -1,7 +1,7 @@
 #include "fonction.h"
 
 
-double des () {
+void zanzibar () {
     int tour(1), nbd(0), compteur(0); //Je definis mes fonctions
          while (tour <= 3) { //Je fais une boucle pour qu'elle se repete 3 fois car 3 tours
             cout << "Lancer les des : "; // Je demande à l'utilisateur de ch

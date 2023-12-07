@@ -5,7 +5,7 @@
 
 using namespace std;
 
-double des();
+void zanzibar();
 
 
 #endif //MOLKKY_FONCTION_H
