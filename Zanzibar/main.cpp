@@ -2,6 +2,6 @@
 #include "fonction.h"
 
 int main() {
-    des();
+    zanzibar();
     return 0;
 }
