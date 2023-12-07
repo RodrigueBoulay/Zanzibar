@@ -2,7 +2,7 @@
 
 * 2 joueurs et +  
 * 3 dés
-* 
+
 Le premier joueur lance les dés :  
 * s’il fait un as (1) il marque 100 points,  
 * s’il fait un 6 il marque 60 points,  
